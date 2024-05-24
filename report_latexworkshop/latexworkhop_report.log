@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.5)  15 MAY 2024 18:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.5)  22 MAY 2024 09:53
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1152,221 +1152,244 @@ LaTeX Info: Redefining \nameref on input line 39.
 \@outlinefile=\write4
 \openout4 = `latexworkhop_report.out'.
 
+LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 43.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 41.
+(Font)              scaled to size 12.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 41.
-<images//flyer.jpg, id=43, 1284.8pt x 722.7pt>
+(Font)              scaled to size 17.28pt on input line 48.
+<images//tulogo1.png, id=43, 208.78pt x 243.91125pt>
+File: images//tulogo1.png Graphic file (type png)
+<use images//tulogo1.png>
+Package pdftex.def Info: images//tulogo1.png  used on input line 57.
+(pdftex.def)             Requested size: 99.58566pt x 113.81206pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//tulogo1.png>]
+<images//flyer.jpg, id=54, 1284.8pt x 722.7pt>
 File: images//flyer.jpg Graphic file (type jpg)
 <use images//flyer.jpg>
-Package pdftex.def Info: images//flyer.jpg  used on input line 51.
+Package pdftex.def Info: images//flyer.jpg  used on input line 90.
 (pdftex.def)             Requested size: 423.98532pt x 238.49173pt.
 LaTeX Font Info:    Trying to load font information for TS1+ArchivZero-OsF on i
-nput line 58.
+nput line 97.
 
 (/usr/share/texlive/texmf-dist/tex/latex/archivo/TS1ArchivZero-OsF.fd
 File: TS1ArchivZero-OsF.fd 2020/12/30 (autoinst) Font definitions for TS1/Archi
 vZero-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 58.
- [1
+(Font)              scaled to size 12.0pt on input line 97.
+ [2
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//flyer.jpg>]
+ <./images//flyer.jpg>]
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 74.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(Font)              scaled to size 10.0pt on input line 113.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 114
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 114
+.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 78.
-<images//jeevansir.jpg, id=53, 2055.68pt x 1541.76pt>
+(Font)              scaled to size 10.0pt on input line 117.
+<images//jeevansir.jpg, id=61, 2055.68pt x 1541.76pt>
 File: images//jeevansir.jpg Graphic file (type jpg)
 <use images//jeevansir.jpg>
-Package pdftex.def Info: images//jeevansir.jpg  used on input line 111.
-(pdftex.def)             Requested size: 398.33093pt x 227.60759pt.
- [2
+Package pdftex.def Info: images//jeevansir.jpg  used on input line 150.
+(pdftex.def)             Requested size: 398.33093pt x 213.37477pt.
+ [3
 
  <./images//jeevansir.jpg>]
-LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 117.
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-<images//schedule.jpg, id=61, 796.9775pt x 911.405pt>
+<images//schedule.jpg, id=69, 796.9775pt x 911.405pt>
 File: images//schedule.jpg Graphic file (type jpg)
 <use images//schedule.jpg>
-Package pdftex.def Info: images//schedule.jpg  used on input line 129.
+Package pdftex.def Info: images//schedule.jpg  used on input line 168.
 (pdftex.def)             Requested size: 483.69907pt x 512.1634pt.
-[3
+[4
 
- <./images//schedule.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
+ <./images//schedule.jpg>] [5
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 138.
-<images//cheifguest.jpg, id=67, 2055.68pt x 1541.76pt>
+(Font)              scaled to size 12.0pt on input line 189.
+<images//cheifguest.jpg, id=79, 2055.68pt x 1541.76pt>
 File: images//cheifguest.jpg Graphic file (type jpg)
 <use images//cheifguest.jpg>
-Package pdftex.def Info: images//cheifguest.jpg  used on input line 145.
+Package pdftex.def Info: images//cheifguest.jpg  used on input line 196.
 (pdftex.def)             Requested size: 251.5015pt x 199.16547pt.
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 146.
-<images//chet.jpg, id=68, 2055.68pt x 1541.76pt>
+(Font)              scaled to size 10.95pt on input line 197.
+<images//chet.jpg, id=80, 2055.68pt x 1541.76pt>
 File: images//chet.jpg Graphic file (type jpg)
 <use images//chet.jpg>
-Package pdftex.def Info: images//chet.jpg  used on input line 151.
+Package pdftex.def Info: images//chet.jpg  used on input line 202.
 (pdftex.def)             Requested size: 203.1334pt x 199.16547pt.
-[4
+[6
 
  <./images//cheifguest.jpg> <./images//chet.jpg>]
-<images//shreeramsir.jpg, id=74, 2047.65pt x 1541.76pt>
+<images//shreeramsir.jpg, id=86, 2047.65pt x 1541.76pt>
 File: images//shreeramsir.jpg Graphic file (type jpg)
 <use images//shreeramsir.jpg>
-Package pdftex.def Info: images//shreeramsir.jpg  used on input line 167.
+Package pdftex.def Info: images//shreeramsir.jpg  used on input line 218.
 (pdftex.def)             Requested size: 217.64977pt x 199.16547pt.
-<images//gyansir.jpg, id=75, 2047.65pt x 1541.76pt>
+<images//gyansir.jpg, id=87, 2047.65pt x 1541.76pt>
 File: images//gyansir.jpg Graphic file (type jpg)
 <use images//gyansir.jpg>
-Package pdftex.def Info: images//gyansir.jpg  used on input line 173.
+Package pdftex.def Info: images//gyansir.jpg  used on input line 224.
 (pdftex.def)             Requested size: 217.64977pt x 199.16547pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 179--181
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
 
  []
 
-<images//puskarsir2.jpg, id=76, 2047.65pt x 1541.76pt>
+<images//puskarsir2.jpg, id=88, 2047.65pt x 1541.76pt>
 File: images//puskarsir2.jpg Graphic file (type jpg)
 <use images//puskarsir2.jpg>
-Package pdftex.def Info: images//puskarsir2.jpg  used on input line 186.
+Package pdftex.def Info: images//puskarsir2.jpg  used on input line 237.
 (pdftex.def)             Requested size: 256.04935pt x 170.69981pt.
-[5
+[7
 
  <./images//shreeramsir.jpg> <./images//gyansir.jpg> <./images//puskarsir2.jpg>
 ]
 LaTeX Font Info:    Font shape `T1/ArchivZero-OsF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 196.
-<images//rcd.jpg, id=83, 2055.68pt x 1541.76pt>
+(Font)              scaled to size 14.4pt on input line 247.
+<images//rcd.jpg, id=96, 2055.68pt x 1541.76pt>
 File: images//rcd.jpg Graphic file (type jpg)
 <use images//rcd.jpg>
-Package pdftex.def Info: images//rcd.jpg  used on input line 202.
+Package pdftex.def Info: images//rcd.jpg  used on input line 253.
 (pdftex.def)             Requested size: 256.04973pt x 199.16547pt.
-<images//puskar.jpg, id=84, 2055.68pt x 1541.76pt>
+<images//puskar.jpg, id=97, 2055.68pt x 1541.76pt>
 File: images//puskar.jpg Graphic file (type jpg)
 <use images//puskar.jpg>
-Package pdftex.def Info: images//puskar.jpg  used on input line 216.
+Package pdftex.def Info: images//puskar.jpg  used on input line 267.
 (pdftex.def)             Requested size: 256.04973pt x 199.16547pt.
- [6
+ [8
 
  <./images//rcd.jpg> <./images//puskar.jpg>]
-<images//online1.png, id=91, 1371.1225pt x 770.88pt>
+<images//online1.png, id=104, 1371.1225pt x 770.88pt>
 File: images//online1.png Graphic file (type png)
 <use images//online1.png>
-Package pdftex.def Info: images//online1.png  used on input line 232.
+Package pdftex.def Info: images//online1.png  used on input line 283.
 (pdftex.def)             Requested size: 217.64758pt x 142.25769pt.
-<images//online2.png, id=93, 1371.1225pt x 770.88pt>
+<images//online2.png, id=105, 1371.1225pt x 770.88pt>
 File: images//online2.png Graphic file (type png)
 <use images//online2.png>
-Package pdftex.def Info: images//online2.png  used on input line 236.
+Package pdftex.def Info: images//online2.png  used on input line 287.
 (pdftex.def)             Requested size: 217.64758pt x 142.25769pt.
-<images//online3.png, id=94, 1371.1225pt x 770.88pt>
+<images//online3.png, id=106, 1371.1225pt x 770.88pt>
 File: images//online3.png Graphic file (type png)
 <use images//online3.png>
-Package pdftex.def Info: images//online3.png  used on input line 246.
+Package pdftex.def Info: images//online3.png  used on input line 297.
 (pdftex.def)             Requested size: 426.78008pt x 199.16547pt.
- [7
+ [9
 
  <./images//online1.png> <./images//online2.png> <./images//online3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
-<images//santosh.jpg, id=105, 2047.65pt x 1541.76pt>
+<images//santosh.jpg, id=116, 2047.65pt x 1541.76pt>
 File: images//santosh.jpg Graphic file (type jpg)
 <use images//santosh.jpg>
-Package pdftex.def Info: images//santosh.jpg  used on input line 265.
+Package pdftex.def Info: images//santosh.jpg  used on input line 316.
 (pdftex.def)             Requested size: 232.14725pt x 170.69981pt.
-<images//sandesh2.jpg, id=106, 2055.68pt x 1541.76pt>
+<images//sandesh2.jpg, id=117, 2055.68pt x 1541.76pt>
 File: images//sandesh2.jpg Graphic file (type jpg)
 <use images//sandesh2.jpg>
-Package pdftex.def Info: images//sandesh2.jpg  used on input line 269.
+Package pdftex.def Info: images//sandesh2.jpg  used on input line 320.
 (pdftex.def)             Requested size: 232.14798pt x 170.69981pt.
-[8
+[10
 
  <./images//santosh.jpg> <./images//sandesh2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 284--286
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
 
  []
 
-<images//pramesh.jpg, id=112, 1541.76pt x 2055.68pt>
+<images//pramesh.jpg, id=123, 1541.76pt x 2055.68pt>
 File: images//pramesh.jpg Graphic file (type jpg)
 <use images//pramesh.jpg>
-Package pdftex.def Info: images//pramesh.jpg  used on input line 294.
+Package pdftex.def Info: images//pramesh.jpg  used on input line 345.
 (pdftex.def)             Requested size: 217.65637pt x 199.14978pt.
-<images//dinesh.jpg, id=113, 1084.05pt x 1445.4pt>
+<images//dinesh.jpg, id=124, 1084.05pt x 1445.4pt>
 File: images//dinesh.jpg Graphic file (type jpg)
 <use images//dinesh.jpg>
-Package pdftex.def Info: images//dinesh.jpg  used on input line 299.
+Package pdftex.def Info: images//dinesh.jpg  used on input line 350.
 (pdftex.def)             Requested size: 217.64977pt x 199.15665pt.
-[9
+[11
 
  <./images//pramesh.jpg> <./images//dinesh.jpg>]
-<images//rcdt.jpg, id=119, 1084.05pt x 1445.4pt>
+<images//rcdt.jpg, id=130, 1084.05pt x 1445.4pt>
 File: images//rcdt.jpg Graphic file (type jpg)
 <use images//rcdt.jpg>
-Package pdftex.def Info: images//rcdt.jpg  used on input line 314.
+Package pdftex.def Info: images//rcdt.jpg  used on input line 365.
 (pdftex.def)             Requested size: 159.60652pt x 199.15665pt.
-<images//puskart.jpg, id=120, 1084.05pt x 1445.4pt>
+<images//puskart.jpg, id=131, 1084.05pt x 1445.4pt>
 File: images//puskart.jpg Graphic file (type jpg)
 <use images//puskart.jpg>
-Package pdftex.def Info: images//puskart.jpg  used on input line 319.
+Package pdftex.def Info: images//puskart.jpg  used on input line 370.
 (pdftex.def)             Requested size: 159.60652pt x 199.15665pt.
-<images//santosht.jpg, id=121, 1084.05pt x 1445.4pt>
+<images//santosht.jpg, id=132, 1084.05pt x 1445.4pt>
 File: images//santosht.jpg Graphic file (type jpg)
 <use images//santosht.jpg>
-Package pdftex.def Info: images//santosht.jpg  used on input line 324.
+Package pdftex.def Info: images//santosht.jpg  used on input line 375.
 (pdftex.def)             Requested size: 145.09984pt x 199.15665pt.
-<images//dhanamaam.jpg, id=122, 1541.76pt x 2055.68pt>
+<images//dhanamaam.jpg, id=133, 1541.76pt x 2055.68pt>
 File: images//dhanamaam.jpg Graphic file (type jpg)
 <use images//dhanamaam.jpg>
-Package pdftex.def Info: images//dhanamaam.jpg  used on input line 336.
+Package pdftex.def Info: images//dhanamaam.jpg  used on input line 387.
 (pdftex.def)             Requested size: 154.77316pt x 184.94048pt.
-<images//chudamani.jpg, id=123, 1084.05pt x 1445.4pt>
+<images//chudamani.jpg, id=134, 1084.05pt x 1445.4pt>
 File: images//chudamani.jpg Graphic file (type jpg)
 <use images//chudamani.jpg>
-Package pdftex.def Info: images//chudamani.jpg  used on input line 340.
+Package pdftex.def Info: images//chudamani.jpg  used on input line 391.
 (pdftex.def)             Requested size: 149.92989pt x 184.93117pt.
-<images//tara.jpg, id=124, 1084.05pt x 1445.4pt>
+<images//tara.jpg, id=135, 1084.05pt x 1445.4pt>
 File: images//tara.jpg Graphic file (type jpg)
 <use images//tara.jpg>
-Package pdftex.def Info: images//tara.jpg  used on input line 344.
+Package pdftex.def Info: images//tara.jpg  used on input line 395.
 (pdftex.def)             Requested size: 154.77647pt x 184.93117pt.
- [10
+ [12
 
  <./images//rcdt.jpg> <./images//puskart.jpg> <./images//santosht.jpg> <./image
 s//dhanamaam.jpg> <./images//chudamani.jpg> <./images//tara.jpg>]
-<images//group.jpg, id=132, 2055.68pt x 1541.76pt>
+<images//group.jpg, id=143, 2055.68pt x 1541.76pt>
 File: images//group.jpg Graphic file (type jpg)
 <use images//group.jpg>
-Package pdftex.def Info: images//group.jpg  used on input line 362.
+Package pdftex.def Info: images//group.jpg  used on input line 413.
 (pdftex.def)             Requested size: 426.78091pt x 312.98103pt.
- [11
+ [13
 
- <./images//group.jpg>]
-(./latexworkhop_report.aux)
+ <./images//group.jpg>] [14
+
+]
+<images//scan1.jpg, id=163, 614.295pt x 1011.78pt>
+File: images//scan1.jpg Graphic file (type jpg)
+<use images//scan1.jpg>
+Package pdftex.def Info: images//scan1.jpg  used on input line 444.
+(pdftex.def)             Requested size: 341.43454pt x 426.79732pt.
+<images//scan2.jpg, id=164, 611.4042pt x 500.1084pt>
+File: images//scan2.jpg Graphic file (type jpg)
+<use images//scan2.jpg>
+Package pdftex.def Info: images//scan2.jpg  used on input line 445.
+(pdftex.def)             Requested size: 341.44176pt x 284.53058pt.
+
+[15
+
+ <./images//scan1.jpg> <./images//scan2.jpg>] (./latexworkhop_report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1374,22 +1397,22 @@ Package rerunfilecheck Info: File `latexworkhop_report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 40852 strings out of 480247
- 959085 string characters out of 5896152
+ 40900 strings out of 480247
+ 959888 string characters out of 5896152
  1343637 words of memory out of 5000000
- 58073 multiletter control sequences out of 15000+600000
- 493033 words of font info for 74 fonts, out of 8000000 for 9000
+ 58102 multiletter control sequences out of 15000+600000
+ 493363 words of font info for 75 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 84i,10n,131p,856b,619s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,10n,131p,1028b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/archivo/a_utd4ik.enc}{/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/archivo/a_owzwzj.enc}</usr/share/texlive/
 texmf-dist/fonts/type1/public/archivo/Archiv0-Bold.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/archivo/Archiv0-Italic.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/archivo/Archiv0-Regular.pfb>
-Output written on latexworkhop_report.pdf (11 pages, 6718078 bytes).
+Output written on latexworkhop_report.pdf (15 pages, 8875413 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
- 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 292 words of extra memory for PDF output out of 10000 (max. 10000000)
 
